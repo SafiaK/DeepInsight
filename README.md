@@ -31,7 +31,7 @@ Replace <file_path> with the actual path to the input file. The input file shoul
 
 The solution will search the source text for matches of the search term and output the matches in the specified format.
 
-####Example
+###Example
 Here's an example command to run the solution:
 
 ```bash
